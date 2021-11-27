@@ -1,6 +1,6 @@
 **Hello there!**
 
-This is the [U+5434 robot](https://twitter.com/Dolphin_Wood/status/966221418164715520) named Daofeng Wu (a.k.a. Dolphin Wood).
+This is the [U+5434 robot](https://twitter.com/Dolphin_Wood/status/966221418164715520), Daofeng Wu (a.k.a. Dolphin Wood).
 
 - :neckbeard: Mainly interested in front-end development, UI/UX development and gaming.
 - :see_no_evil: Also do CV and AIchemy.
