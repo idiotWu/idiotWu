@@ -3,7 +3,7 @@
 This is the [U+5434 robot](https://twitter.com/Dolphin_Wood/status/966221418164715520), Daofeng Wu (a.k.a. Dolphin Wood).
 
 - :neckbeard: Focusing on front-end development and UI/UX perfection.
-- :see_no_evil: Also interested in CV, CG and AIchemy.
+- :see_no_evil: Also interested in CV, CG and [AIchemy](https://en.wikipedia.org/wiki/Machine_learning).
 - :computer: Write code to ~satisfy myself~ solve problems.
 - :feet: Find me on [CodePen](https://codepen.io/idiotWu) and [StackBlitz](https://stackblitz.com/@idiotWu).
 - :robot: _I HAVE PASSED THE TURING TEST._
