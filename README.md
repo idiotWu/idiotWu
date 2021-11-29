@@ -8,5 +8,5 @@ Hello there! This is the [U+5434 robot](https://twitter.com/Dolphin_Wood/status/
 - :feet: Find me on [CodePen](https://codepen.io/idiotWu) and [StackBlitz](https://stackblitz.com/@idiotWu).
 - :robot: _I HAVE PASSED THE TURING TEST._
 
-| <img align="center" src="https://github-readme-stats-idiotwu.vercel.app/api?username=idiotWu&show_icons=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER&cache_seconds=86400" alt="Daofeng Wu's GitHub Stats" /> | <img align="center" src="https://github-readme-stats-idiotwu.vercel.app/api/top-langs/?username=idiotWu&langs_count=10&layout=compact&hide_border=true&role=OWNER,ORGANIZATION_MEMBER&hide=TeX,HTML&cache_seconds=86400" alt="Most Used Languages" /> |
+| <img align="center" src="https://github-readme-stats-idiotwu.vercel.app/api?username=idiotWu&show_icons=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER&cache_seconds=43200" alt="Daofeng Wu's GitHub Stats" /> | <img align="center" src="https://github-readme-stats-idiotwu.vercel.app/api/top-langs/?username=idiotWu&langs_count=10&layout=compact&hide_border=true&role=OWNER,ORGANIZATION_MEMBER&hide=TeX,HTML&cache_seconds=43200" alt="Most Used Languages" /> |
 | ------------- | ------------- |
