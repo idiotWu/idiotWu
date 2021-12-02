@@ -12,10 +12,10 @@ Hello there! This is the [U+5434 robot](https://twitter.com/Dolphin_Wood/status/
   <tbody>
     <tr valign="top">
       <td>
-        <img src="https://github.com/idiotWu/stats/blob/master/generated/overview.svg" alt="Daofeng Wu's GitHub Stats" />
+        <img src="https://github.com/idiotWu/stats/blob/generated/overview.svg" alt="Daofeng Wu's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github.com/idiotWu/stats/blob/master/generated/languages.svg" alt="Most Used Languages" />
+        <img src="https://github.com/idiotWu/stats/blob/generated/languages.svg" alt="Most Used Languages" />
       </td>
     </tr>
   </tbody>
