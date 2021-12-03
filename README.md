@@ -8,15 +8,5 @@ Hello there! This is the [U+5434 robot](https://twitter.com/Dolphin_Wood/status/
 - :feet: Find my creative works on [CodePen](https://codepen.io/idiotWu) and [StackBlitz](https://stackblitz.com/@idiotWu).
 - :robot: _I HAVE PASSED THE TURING TEST._
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td>
-        <img src="https://github.com/idiotWu/stats/blob/generated/overview.svg" alt="Daofeng Wu's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github.com/idiotWu/stats/blob/generated/languages.svg" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+|![Daofeng Wu's GitHub Stats](https://github.com/idiotWu/stats/blob/generated/overview.svg#gh-light-mode-only) ![Daofeng Wu's GitHub Stats](https://github.com/idiotWu/stats/blob/generated/overview-dark.svg#gh-dark-mode-only)|![Most Used Languages](https://github.com/idiotWu/stats/blob/generated/languages.svg#gh-light-mode-only) ![Most Used Languages](https://github.com/idiotWu/stats/blob/generated/languages-dark.svg#gh-dark-mode-only)|
+|:--:|:--:|
