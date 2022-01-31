@@ -2,7 +2,7 @@ Hello there! This is the [U+5434 robot](https://twitter.com/Dolphin_Wood/status/
 
 **Specs >**
 
-- :neckbeard: Focusing on front-end development and UI/UX perfection.
+- :neckbeard: Focused on unleashing the potential of the Web.
 - :see_no_evil: Also interested in CV, CG, and game development.
 - :computer: Write code to ~~satisfy myself~~ solve problems.
 - :feet: Find my creative works on [CodePen](https://codepen.io/idiotWu) and [StackBlitz](https://stackblitz.com/@idiotWu).
