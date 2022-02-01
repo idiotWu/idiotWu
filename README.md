@@ -3,7 +3,7 @@ Hello there! This is the [U+5434 robot](https://twitter.com/Dolphin_Wood/status/
 **Specs >**
 
 - :neckbeard: Focused on unleashing the potential of the Web.
-- :see_no_evil: Also exploring CV, CG, and game development.
+- :see_no_evil: Also exploring the secrets of CV, CG, and game development.
 - :computer: Write code to ~~satisfy myself~~ solve problems.
 - :feet: Find my creative works on [CodePen](https://codepen.io/idiotWu) and [StackBlitz](https://stackblitz.com/@idiotWu).
 - :robot: _I HAVE PASSED THE TURING TEST._
