@@ -1,3 +1,7 @@
+> **Note**
+> I am looking for 2023 summer internship opportunities (as a front-end engineer/software engineer) in the US & Japan.
+
+
 Hello there! This is Daofeng Wu (a.k.a. Dolphin Wood). 
 
 **Specs >**
