@@ -1,4 +1,5 @@
 > **Note**
+> 
 > I am looking for 2023 summer internship opportunities (as a front-end engineer/software engineer) in the US & Japan.
 
 
