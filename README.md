@@ -1,6 +1,6 @@
 > **Note**
 > 
-> I am seeking 2024 new grad front-end engineer/software engineer positions in the US & Japan.
+> I am seeking 2024 new grad front-end engineer/software engineer positions in the US & Japan. ([LinkedIn](https://www.linkedin.com/in/daofeng-wu))
 
 
 Hello there! This is Daofeng Wu (a.k.a. Dolphin Wood). 
